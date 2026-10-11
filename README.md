@@ -9,27 +9,27 @@
 
 This repository contains a strictly educational and research-oriented **reconstruction** of the infamous **Stuxnet** worm. It is the product of countless hours of reverse engineering work conducted by the global security research community on the original binary samples discovered in 2010.
 
-Disclaimer: This code is provided solely for academic study, malware analysis training, and defensive research. The authors and contributors do not condone illegal or unethical activities.
+Warning: This code is provided solely for academic study, malware analysis training, and defensive research. The authors and contributors do not condone illegal or unethical activities.
 
 **_It is not intended to be used for any malicious purposes, nor is it a deployable piece of malware._**
 
 # Table of Contents
 
-Status
+- Status
 
-Overview
+- Overview
 
-Core Components
+- Core Components
 
-Technical Architecture
+- Technical Architecture
 
-Build Instructions
+- Build Instructions
 
-Usage
+- Usage
 
-Legal and License
+- Legal and License
 
-Acknowledgements
+- Acknowledgements
 
 # Status
 
